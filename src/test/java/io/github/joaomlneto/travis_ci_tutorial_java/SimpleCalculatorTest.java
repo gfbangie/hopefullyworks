@@ -26,4 +26,9 @@ public class SimpleCalculatorTest {
 		SimpleCalculator calc = new SimpleCalculator();
 		assertEquals(calc.div(8, 2), 4);
 	}
+	@Test
+	public void testWeird(){
+		SimpleCalculator calc-new SimpleCalculator();
+		assertEquals(calc.weird(5,3),3);
+	}
 }
