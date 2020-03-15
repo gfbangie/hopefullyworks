@@ -28,7 +28,7 @@ public class SimpleCalculatorTest {
 	}
 	@Test
 	public void testWeird(){
-		SimpleCalculator calc-new SimpleCalculator();
+		SimpleCalculator calc=new SimpleCalculator();
 		assertEquals(calc.weird(5,3),3);
 	}
 }
