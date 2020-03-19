@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/gfbangie/hopefullyworks.svg?branch=master)](https://travis-ci.com/gfbangie/hopefullyworks)
+[![Build Status](https://travis-ci.org/gfbangie/hopefullyworks.svg?branch=master)](https://travis-ci.org/gfbangie/hopefullyworks)
 
 
 # travis-ci-tutorial-java
