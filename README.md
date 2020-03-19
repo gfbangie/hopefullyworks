@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/joaomlneto/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.com/gfbangie/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.com/gfbangie/hopefullyworks.svg?branch=master)](https://travis-ci.com/gfbangie/hopefullyworks)
 
 
 # travis-ci-tutorial-java
