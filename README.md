@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/gfbangie/hopefullyworks.svg?branch=master)](https://travis-ci.org/gfbangie/hopefullyworks)
-[![Code Coverage](https://codecov.io/github/gfbangie/hopefullyworks/coverage.svg)](https://codecov.io/gh/gfbangie/hopefullyworks)
+[![Coverage Status](https://coveralls.io/repos/github/gfbangie/hopefullyworks/badge.svg?branch=master)](https://coveralls.io/github/gfbangie/hopefullyworks?branch=master)
 
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
